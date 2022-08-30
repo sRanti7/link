@@ -1,0 +1,14 @@
+body {background:black;}
+h1  {color:blueviolet;}
+h2 {color:aquamarine;} 
+.encavesado{
+background-color: rgba(98, 0, 139, 0.938);  
+display:flex;
+justify-content:space-between;
+}
+.grid{
+display: flex;    
+flex-wrap:wrap ;
+justify-content: space-evenly;
+
+}
